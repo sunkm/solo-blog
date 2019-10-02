@@ -10,6 +10,8 @@ Sun 的个人博客
 
 ### 最新
 
+* [新房装修备忘](https://blog.cnzhizi.com/articles/2019/10/02/1569965944655.html)
+* [副业刚需](https://blog.cnzhizi.com/articles/2019/10/01/1569944859512.html)
 * [感恩](https://blog.cnzhizi.com/articles/2019/09/30/1569841591514.html)
 * [常用软件集合](https://blog.cnzhizi.com/articles/2019/09/28/1569675120546.html)
 * [做自己情绪的主人](https://blog.cnzhizi.com/qx)
