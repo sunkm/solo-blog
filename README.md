@@ -10,6 +10,7 @@ Sun 的个人博客
 
 ### 最新
 
+* [在职创业或许是副业刚需的最好实践](https://blog.cnzhizi.com/articles/2019/10/05/1570271566909.html)
 * [新房装修备忘](https://blog.cnzhizi.com/articles/2019/10/02/1569965944655.html)
 * [副业刚需](https://blog.cnzhizi.com/articles/2019/10/01/1569944859512.html)
 * [感恩](https://blog.cnzhizi.com/articles/2019/09/30/1569841591514.html)
