@@ -10,6 +10,7 @@ Sun 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://blog.cnzhizi.com/my-github-repos)
 * [IntelliJ IDEA 运行 Maven 项目](https://blog.cnzhizi.com/articles/2019/10/08/1570547683208.html)
 * [Maven的repository配置不生效的问题](https://blog.cnzhizi.com/articles/2019/10/08/1570545130876.html)
 * [有哪些利用人性弱点赚钱的案例？](https://blog.cnzhizi.com/articles/2019/10/06/1570355863849.html)
